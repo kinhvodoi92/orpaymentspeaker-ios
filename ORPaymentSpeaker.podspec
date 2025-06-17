@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
 
   s.platform         = :ios, '11.0'
   s.swift_version    = '5.0'
-  s.vendored_frameworks = 'ORPaymentSpeaker.framework', 'Flutter.framework', 'App.framework'
+  s.vendored_frameworks = 'OHPaymentSpeaker.framework', 'Flutter.framework', 'App.framework'
 end
