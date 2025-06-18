@@ -1,6 +1,0 @@
-framework module OHPaymentSpeaker {
-  umbrella header "OHPaymentSpeaker.h"
-  export *
-
-  module * { export * }
-}
