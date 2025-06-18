@@ -10,55 +10,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x/28kaN6fAmkSWW4Kh95bUe1DMo=
+		z9USA2AnamkqZFL8yfX+n7HymKw=
 		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		r+RpzyS4H+GXXwv+ul2fuGYQOhk=
+		WfFYk1sslc8ZpXQzEyYm9kBwoMs=
 		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		diRF/DYP/iQSwAj7gxTCBufWNBw=
+		zQ+c1R286JAeNUmzmcy17YG1c64=
 		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		/sjhqvcvCxAtGDJSVY2LTDB1DaQ=
+		BICBjOznbbQY7geFzBN24A2LMIQ=
 		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		YLaGzINcZhu4Acyab7GP9oLaOK4=
+		9OrjDfgCtYVwG5nC/0VmMgrKavU=
 		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		WtePZCYxJQjWsnz9N6P1xopvN4k=
+		BICBjOznbbQY7geFzBN24A2LMIQ=
 		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		YLaGzINcZhu4Acyab7GP9oLaOK4=
-		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		Y6EPPc/+NQ6yJW1ngHNSjhUsHkY=
-		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		/sjhqvcvCxAtGDJSVY2LTDB1DaQ=
-		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		RssuiOImyHaD+wIAb/oiz3AHCYA=
-		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		8Z+K+9g76FsJiD79EL9WAwWeuEk=
-		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		RssuiOImyHaD+wIAb/oiz3AHCYA=
-		</data>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		Pg0IqcB8MQW98rHunn16pZfgQDo=
+		rs24WzcXdvZQ3ireBt1yQ7cas1M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -70,88 +46,46 @@
 			ZG/TMJ6qJyD6dQAVa5yNXlD35fWUpNjLsKsJ4N9+1pE=
 			</data>
 		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3YJztWaE62oEx3N/qZvA9AIkodg2WGiRji9OuNLnugs=
+			FCSY6EQGigP7W6yqSiQLA6NPlNh/0M4Esr8zw3lcsFQ=
 			</data>
 		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ptUYdOUObzXXtkHdI3dEtoqVL2IBGJSl6PG7tKpWrug=
+			+6SrAGcd4c9DMImffIzHu1TemHpxH//W3/VVHuKXvMw=
 			</data>
 		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eeIs3EPGr7Bvz08UVMJiZHO0CE/n0/8cu9cFILcD+pE=
+			wtsr753t0/BrJbfLgHe3X+carDFA1GkacKCO7j8oBAA=
 			</data>
 		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U2ufwoTW9+J8QPA+JzAG/K5D5UeFY2ZXFUriJ7zLBGw=
+			JK0iHc31nZUjQf62tsGl6a/RRIT6aSO2s4FaRMn54Dk=
 			</data>
 		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6ImIgfp8K75T58CWXwPjggeAfWu2XITjv0eiYQQgNY=
+			wtsr753t0/BrJbfLgHe3X+carDFA1GkacKCO7j8oBAA=
 			</data>
 		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U2ufwoTW9+J8QPA+JzAG/K5D5UeFY2ZXFUriJ7zLBGw=
-			</data>
-		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WLs9wAlV3+DgpVGQTiIxkr7KtbWsLzH/WCptcAMaPoA=
-			</data>
-		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eeIs3EPGr7Bvz08UVMJiZHO0CE/n0/8cu9cFILcD+pE=
-			</data>
-		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/GvYFAsL7927eY7OQ1FCaH/eDnKEridZEievv5LLuL0=
-			</data>
-		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HNCm3jb70c+1kNjZj6TfkaNH1EdQu1+wo3gXI2AxPL4=
-			</data>
-		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/GvYFAsL7927eY7OQ1FCaH/eDnKEridZEievv5LLuL0=
-			</data>
-		</dict>
-		<key>Modules/ORPaymentSpeakerKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OUsmYW3BwhshFSxB/FsqutPy5TkV5NAuoZ1yQREjch8=
+			Fcjtl/Rrhne4+edQRMeQZT9zMjDvsrvhBLQ6c+P3rHY=
 			</data>
 		</dict>
 	</dict>
